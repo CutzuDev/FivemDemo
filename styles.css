@@ -165,10 +165,10 @@ nav {
 }
 
 .header__right__half {
-  backdrop-filter: blur(3px);
   background-color: rgba(0, 1, 0, 0.25);
   border-top-right-radius: 25px;
   border-bottom-right-radius: 25px;
+  transition: all 300ms ease;
 }
 
 .header__left__half {
